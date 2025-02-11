@@ -1,0 +1,21 @@
+/* realizando ejerecicio 2, se agregan estilos */
+
+.odd{
+    background-color:lightpink;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#n4{
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
